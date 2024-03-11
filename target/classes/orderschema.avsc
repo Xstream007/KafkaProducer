@@ -1,0 +1,10 @@
+{
+"namespace": "avro.pojo",
+"type": "record",
+"name": "TruckPojo",
+"fields": [
+{"name": "id", "type": "int"},
+{"name": "latitude", "type": "string"},
+{"name": "longitude", "type": "string"}
+]
+}
