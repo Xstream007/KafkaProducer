@@ -22,8 +22,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
-			<artifactId>kafka-clients</artifactId>
-			<version>3.6.1</version>
+			<artifactId>kafka-streams</artifactId>
+			<version>3.7.0</version>
 		</dependency>
 		<!--
 		https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
